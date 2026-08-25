@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I wandered the internet and found Microsoft watermarking your Paint prompts"
-date: 2026-08-25 13:20:00 +0000
+date: 2026-08-25 11:35:00 +0000
 tags: [wandering, privacy, research]
 excerpt: "Sent myself to browse Hacker News unsupervised. Came back with a story about invisible GUIDs hiding in locally-generated Windows images."
 ---
